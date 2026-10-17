@@ -1,0 +1,115 @@
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 1:44:25 AM  Oct 12, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+[error] Cannot connect to license server system.
+ The license server manager (lmgrd) has not been started yet,
+ the wrong port@host or license file is being used, or the
+ port or hostname in the license file has been changed.
+Feature
+hfss_gui
+Server name
+161.24.19.130
+License path
+1055@161.24.19.130
+FlexNet Licensing error
+-15,570.  System Error
+115 "Operation now in progress"
+
+
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 1:46:30 AM  Oct 12, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+[error] Cannot connect to license server system.
+ The license server manager (lmgrd) has not been started yet,
+ the wrong port@host or license file is being used, or the
+ port or hostname in the license file has been changed.
+Feature
+hfss_gui
+Server name
+161.24.19.130
+License path
+1055@161.24.19.130
+FlexNet Licensing error
+-15,570.  System Error
+115 "Operation now in progress"
+
+
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 11:08:53 AM  Oct 13, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 37049. 
+-- Message Window --
+Stopping Batch Run: 5:56:53 PM  Oct 13, 2026
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:02:35 PM  Oct 13, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 6:45:54 PM  Oct 13, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+Stopping Batch Run: 12:05:39 AM  Oct 14, 2026
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 12:08:59 AM  Oct 14, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+[warning] Some designs have been edited resulting in invalid solution data. This data will be deleted from the saved project.
+Do you want to proceed?
+[warning] Some designs have been edited resulting in invalid solution data. This data will be deleted from the saved project.
+Do you want to proceed?
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:35:02 PM  Oct 14, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 11:57:52
+Location: /usr/ansys_inc/v252/AnsysEM/ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:42:07 PM  Oct 14, 2026
+Temp directory: /tmp
+Project directory: /home/lap1/Ansoft
+[error] Project "Planar_Array" cannot be closed/deleted because it is in use by another application.
+[warning] Project /home/lap1/Documentos/Alunos/JoaoPedroFalcao/planar_diagonal_feed/Flat_Patch_Export.aedt may be opened in another instance of the application.
+Opening the project in multiple instances may cause data corruption or software failure.
+Do you want to continue?
+[warning] Project /home/lap1/Documentos/Alunos/JoaoPedroFalcao/planar_diagonal_feed/Flat_Patch_Export.aedt may be opened in another instance of the application.
+Opening the project in multiple instances may cause data corruption or software failure.
+Do you want to continue?
+[warning] Project /home/lap1/Documentos/Alunos/JoaoPedroFalcao/planar_diagonal_feed/Flat_Patch_Export.aedt may be opened in another instance of the application.
+Opening the project in multiple instances may cause data corruption or software failure.
+Do you want to continue?
+[warning] Project /home/lap1/Documentos/Alunos/JoaoPedroFalcao/planar_diagonal_feed/Flat_Patch_Export.aedt may be opened in another instance of the application.
+Opening the project in multiple instances may cause data corruption or software failure.
+Do you want to continue?
+-- Message Window --
+      *Global - Messages
+        [warning] Project /home/lap1/Documentos/Alunos/JoaoPedroFalcao/planar_diagonal_feed/Flat_Patch_Export.aedt may be opened in another instance of the application. Opening the project in multiple instances may cause data corruption or software failure. Do you want to continue?
+        [warning] Project /home/lap1/Documentos/Alunos/JoaoPedroFalcao/planar_diagonal_feed/Flat_Patch_Export.aedt may be opened in another instance of the application. Opening the project in multiple instances may cause data corruption or software failure. Do you want to continue?
+-- Message Window --
+Stopping Batch Run: 10:49:42 PM  Oct 14, 2026
